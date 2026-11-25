@@ -6,7 +6,7 @@ Prepared by **Nisar Muhammad** · [Instagram @nisarmohammed](https://www.instagr
 
 A beginner-friendly guide to planning and creating cinematic Instagram Reels using ChatGPT, OpenAI Codex and optional ElevenLabs narration. No prior coding experience is required to follow the guide. You must review commands, permissions, generated code and results.
 
-**[Download the eight-page PDF](https://github.com/nisarnis-prog/Create-Cinematic-Reels-With-Codex/releases/download/v1.0.0/Create-Cinematic-Reels-With-Codex.pdf)** · **[Copy the prompts](COPY-PASTE-PROMPTS.md)** · **[Start here](START-HERE.md)**
+**[Download the Beginner's Step-by-Step Guide (PDF)](https://github.com/nisarnis-prog/Create-Cinematic-Reels-With-Codex/releases/download/v1.0.0/Create-Cinematic-Reels-With-Codex.pdf)** · **[Copy the prompts](COPY-PASTE-PROMPTS.md)** · **[Start here](START-HERE.md)**
 
 ## What you will learn
 
