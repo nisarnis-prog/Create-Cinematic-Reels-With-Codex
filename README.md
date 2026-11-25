@@ -1,3 +1,8 @@
+<picture>
+  <source media="(max-width: 640px)" srcset="Assets/portfolio/hero-mobile.svg" />
+  <img src="Assets/portfolio/hero.svg" width="1200" alt="Create Cinematic Reels With Codex — Nisar Muhammad" />
+</picture>
+
 # Create Cinematic Reels With Codex
 
 ![Create Cinematic Reels With Codex — Nisar Muhammad](Assets/Repository-Banner.png)
