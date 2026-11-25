@@ -1,11 +1,11 @@
 <picture>
-  <source media="(max-width: 640px)" srcset="Assets/portfolio/hero-mobile.svg" />
-  <img src="Assets/portfolio/hero.svg" width="1200" alt="Create Cinematic Reels With Codex — Nisar Muhammad" />
+  <source media="(max-width: 640px)" srcset="Assets/phase2/hero-mobile.svg" />
+  <img src="Assets/phase2/hero.svg" width="1200" alt="Create Cinematic Reels With Codex — Nisar Muhammad" />
 </picture>
 
 # Create Cinematic Reels With Codex
 
-![Create Cinematic Reels With Codex — Nisar Muhammad](Assets/Repository-Banner.png)
+
 
 Prepared by **Nisar Muhammad** · [Instagram @nisarmohammed](https://www.instagram.com/nisarmohammed/)
 
@@ -13,7 +13,7 @@ A beginner-friendly guide to planning and creating cinematic Instagram Reels usi
 
 **[Download the Beginner's Step-by-Step Guide (PDF)](https://github.com/nisarnis-prog/Create-Cinematic-Reels-With-Codex/releases/download/v1.0.0/Create-Cinematic-Reels-With-Codex.pdf)** · **[Copy the prompts](COPY-PASTE-PROMPTS.md)** · **[Start here](START-HERE.md)**
 
-## What you will learn
+## <img src="Assets/phase2/section.svg" width="32" alt="" /> What you will learn
 
 - Connect a local project to Codex and prepare a video workspace.
 - Plan narration and scene visuals with ChatGPT.
@@ -21,11 +21,11 @@ A beginner-friendly guide to planning and creating cinematic Instagram Reels usi
 - Add your own recorded voice or optional ElevenLabs narration.
 - Request corrections and export a vertical MP4.
 
-## Required tools and prerequisites
+## <img src="Assets/phase2/section.svg" width="32" alt="" /> Required tools and prerequisites
 
 Use a Windows or Mac computer, internet access, sufficient free storage, access to a supported Codex interface and a video idea. A phone helps you review the result. Codex should check for Node.js, npm, FFmpeg, FFprobe and a Remotion/Chromium rendering setup, reuse working tools and explain missing requirements before changes.
 
-## Seven-step workflow
+## <img src="Assets/phase2/section.svg" width="32" alt="" /> Seven-step workflow
 
 1. **Install Codex.** Follow official installation and sign-in instructions.
 2. **Create and connect the project.** Create AI_Video_Editor in Documents and open it as the active Codex project.
@@ -35,7 +35,7 @@ Use a Windows or Mac computer, internet access, sufficient free storage, access 
 6. **Add narration.** Use your own recording or optionally use Prompt 4 for ElevenLabs after approving the script and costs.
 7. **Review, correct and export.** Use Prompt 5 after approval, request timestamp-based corrections with Prompt 6 and verify the MP4 in the Output folder.
 
-## Optional ElevenLabs narration
+## <img src="Assets/phase2/section.svg" width="32" alt="" /> Optional ElevenLabs narration
 
 ElevenLabs is a separate, optional service and may require credits or a paid subscription. Choose an authorized voice and approve the script, settings and credit usage before generation. Reuse working integrations and cache successful takes. Configure keys securely and identify the exact failing endpoint when troubleshooting. Optional model-listing and account-reading permissions may differ from Text to Speech permissions.
 
